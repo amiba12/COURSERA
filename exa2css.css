@@ -1,0 +1,39 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+  }
+  
+  header {
+    background-color: #3498db; /* Choisissez la couleur de fond que vous préférez */
+  }
+  
+  nav {
+    background-color: #2c3e50; /* Choisissez la couleur de fond que vous préférez */
+  }
+  
+  main {
+    background-color: #ecf0f1; /* Choisissez la couleur de fond que vous préférez */
+    font-size: 18px;
+  }
+  
+  footer {
+    background-color: #3498db; /* Choisissez la couleur de fond que vous préférez */
+  }
+  
+  li {
+    display: inline-block;
+    width: 100px; /* Choisissez la largeur que vous préférez */
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #e74c3c; /* Choisissez la couleur de texte que vous préférez */
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
